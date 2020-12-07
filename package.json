@@ -11,6 +11,9 @@
     "name": "Ciro Cesar Maciel",
     "email": "me@ciro-maciel.me"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "babel index.js --out-file main.js",
     "watch": "nodemon -e js --ignore main.js --exec \"babel index.js --out-file main.js && yalc push --changed\" "
