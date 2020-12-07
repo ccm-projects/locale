@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/cm-workspace/locale/compare/v1.1.1...v1.1.2) (2020-12-07)
+
+
+### Bug Fixes
+
+* **license:** add ([ef9b58c](https://github.com/cm-workspace/locale/commit/ef9b58c0ba13e104f3341a03a475d7a2bf849bd6))
+
 ## [1.1.1](https://github.com/cm-workspace/locale/compare/v1.1.0...v1.1.1) (2020-12-07)
 
 
