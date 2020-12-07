@@ -5,6 +5,14 @@
   "homepage": "http://workspace.ciro-maciel.me/",
   "license": "CC-BY-NC-SA-4.0",
   "repository": "https://github.com/cm-workspace/locale.git",
+  "keywords": [
+    "localization",
+    "react",
+    "internalization",
+    "i18n",
+    "ciro-maciel",
+    "workspace"
+  ],
   "private": false,
   "main": "main.js",
   "author": {
