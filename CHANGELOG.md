@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/cm-workspace/locale/compare/v1.1.2...v1.1.3) (2020-12-08)
+
+
+### Bug Fixes
+
+* **changelog:** add slack link ([95d44c9](https://github.com/cm-workspace/locale/commit/95d44c901ea6f247de341257f2ff34ec6fb63114))
+
 ## [1.1.2](https://github.com/cm-workspace/locale/compare/v1.1.1...v1.1.2) (2020-12-07)
 
 
