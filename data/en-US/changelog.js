@@ -1,14 +1,15 @@
 module.exports = {
-  '6aa43e1': {
+  "6aa43e1": {
     d: `what's New?`,
   },
-  '0c3811a': {
-    d: 'Workspace is very much under active development and has been regularly pushing out updates since launching!',
+  "0c3811a": {
+    d:
+      "Workspace is very much under active development and has been regularly pushing out updates since launching!",
   },
   f19699d: {
     d: `As of October 2020, we are only going to be publishing new features & major changes to this public changelog.`,
   },
-  '55978fc': {
-    d: `Complete release notes including minor improvements and bug fixes are available to beta testers subscribers via the Workspace community on Slack.`,
+  "55978fc": {
+    d: `Complete release notes including minor improvements and bug fixes are available to beta testers subscribers via the Workspace community on <a href='https://join.slack.com/t/workspace-cm/shared_invite/zt-jsqem42u-vHXwr7VKN8rDaXX58keS3g' target='_blank' >Slack</a>.`,
   },
 };
