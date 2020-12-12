@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/cm-workspace/locale/compare/v1.1.3...v1.2.0) (2020-12-12)
+
+
+### Features
+
+* **i18n:** layout + configuration + common ([7624df7](https://github.com/cm-workspace/locale/commit/7624df7d55ea335b2d5429d0cf364f684360344e))
+
 ## [1.1.3](https://github.com/cm-workspace/locale/compare/v1.1.2...v1.1.3) (2020-12-08)
 
 
