@@ -7,6 +7,8 @@ In computing, internationalization and localization are means of adapting comput
 - [Yalc](https://github.com/whitecolor/yalc)
 - [Tips on Using yalc for Local Packages](https://docs.joshuatz.com/cheatsheets/devops/yalc/)
 - [Using babel 7 with node](https://hackernoon.com/using-babel-7-with-node-7e401bc28b04)
+- [react-i18next](https://github.com/i18next/react-i18next)
+- [uuid function](https://guid-dcyuu0shhmrn.runkit.sh/)
 
 ### License
 
