@@ -1,21 +1,80 @@
 module.exports = {
-  e78d693: {
-    d: "",
+  "68fad56": {
+    d: "Working late",
+  },
+  d0a73ed: {
+    d: "Good evening",
+  },
+  "2d92e67": {
+    d: "Good afternoon",
+  },
+  "79db50f": {
+    d: "Good morning",
+  },
+  "970b59e": {
+    d: "Whoa, early bird",
+  },
+  "037f3c6": {
+    d: "Project",
+  },
+  "7656f1c": {
+    d: "Search by Project Name",
+  },
+  ef76fcc: {
+    d: "Models",
+  },
+  abef585: {
+    d: `<p> See more <br /> Incredible models</p> <p>Real projects created by our <br/>  <strong>Team</strong> and the <strong>Community</strong></p>`,
+  },
+  d540278: {
+    d: "Today is...",
+  },
+  f12c80c: {
+    d: "Search in the Project",
+  },
+  c0bbb1a: {
+    d: "Enter a term that matches any part of your Document",
+  },
+  d5849fc: {
+    d: "What would you change on this page?",
+  },
+  "4abcbc3": {
+    d: "Send",
+  },
+  "28ad1ed": {
+    d: "Documents",
+  },
+  "731b5a9": {
+    d: "Texts",
+  },
+  c2e7ead: {
+    d: "Links",
+  },
+  c23aa52: {
+    d: "Notifications",
+  },
+  a268a5d: {
+    d: "Files",
+  },
+  "87d0200": {
+    d: "Tasks",
+  },
+  "2cb6a95": {
+    d: "Contacts",
+  },
+  "31d6231": {
+    d: "Events",
+  },
+  "571ba28": {
+    d: "Images",
+  },
+  ddce703: {
+    d: "Financial",
+  },
+  "6a26569": {
+    d: "Participants",
+  },
+  fd7e6be: {
+    d: "Trash",
   },
 };
-
-// [22, 'Working late'],
-// [18, 'Good evening'],
-// [12, 'Good afternoon'],
-// [5, 'Good morning'],
-// [0, 'Whoa, early bird'],
-
-// <p>
-//   Know <br />
-//   Models of Incredible <br /> <strong>Workspace</strong>{' '}
-// </p>
-// <p>
-//   Real workspace created by our <strong>Team</strong> and the <strong>Community</strong>
-// </p>
-
-// Describe who you are

@@ -9,7 +9,7 @@ module.exports = {
     d: "Perfil",
   },
   "096cdbf": {
-    d: "Histórico",
+    d: "Histórico de acesso",
   },
   9472581: {
     d: "Alterar foto do perfil",
@@ -76,5 +76,14 @@ module.exports = {
   },
   "00b1010": {
     d: "Salvar",
+  },
+  ecaa1fe: {
+    d: "Username não está disponível",
+  },
+  "56ca842": {
+    d: "seu Username foi salvo",
+  },
+  "4cdf805": {
+    d: "deve conter 6 caracteres",
   },
 };

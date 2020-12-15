@@ -67,9 +67,9 @@ export default {
     },
   },
   a1bd7b8: {
-    n: "calendar",
+    n: "calendario",
     "6e94256": {
-      n: "month",
+      n: "mês",
       "32f30e4": {
         d: "Janeiro",
       },

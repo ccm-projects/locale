@@ -66,4 +66,58 @@ export default {
       d: "by",
     },
   },
+  a1bd7b8: {
+    n: "calendar",
+    "6e94256": {
+      n: "month",
+      "32f30e4": {
+        d: "January",
+      },
+      "8c2ee9f": {
+        d: "February",
+      },
+      "600ad4d": {
+        d: "March",
+      },
+      "94575c6": {
+        d: "April",
+      },
+      ce1f721: {
+        d: "May",
+      },
+      "2e06b1a": {
+        d: "June",
+      },
+      "7f7257e": {
+        d: "July",
+      },
+      "9141f11": {
+        d: "August",
+      },
+      "41bad50": {
+        d: "September",
+      },
+      "7f6ca5d": {
+        d: "October",
+      },
+      "97b5a6f": {
+        d: "November",
+      },
+      "1f9bad9": {
+        d: "December",
+      },
+    },
+  },
+  "8bbf664": {
+    n: "sex",
+    "497b3f6": {
+      d: "Female",
+    },
+    8771965: {
+      d: "Male",
+    },
+    c73bd8f: {
+      d: "Other",
+    },
+  },
 };

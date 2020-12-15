@@ -27,7 +27,7 @@ module.exports = {
     d: `<p> Conheça <br /> Modelos incríveis</p> <p>Projetos reais criados pela nossa <br/> <strong>Equipe</strong> e pela <strong>Comunidade</strong></p>`,
   },
   d540278: {
-    d: "sua Agenda em",
+    d: "Hoje é...",
   },
   f12c80c: {
     d: "Procurar no Projeto",
