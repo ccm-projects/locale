@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/cm-workspace/locale/compare/v1.2.0...v1.2.1) (2020-12-15)
+
+
+### Bug Fixes
+
+* **user:** configuration ([bb96eee](https://github.com/cm-workspace/locale/commit/bb96eee9f0304bc80d1eb75920ec4040c39205e2))
+
 # [1.2.0](https://github.com/cm-workspace/locale/compare/v1.1.3...v1.2.0) (2020-12-12)
 
 
