@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/cm-workspace/locale/compare/v1.2.1...v1.2.2) (2020-12-15)
+
+
+### Bug Fixes
+
+* docs ([b697dc8](https://github.com/cm-workspace/locale/commit/b697dc870c40ebb873460f37d9dacc55a9484e0f))
+
 ## [1.2.1](https://github.com/cm-workspace/locale/compare/v1.2.0...v1.2.1) (2020-12-15)
 
 
