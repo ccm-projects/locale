@@ -7,7 +7,3 @@ In computing, internationalization and localization are means of adapting comput
 Copyright (c) Workspace. All rights reserved.
 
 Licensed under the [CC-BY-SA-4.0](LICENSE) License.
-
-<!--
-[![NPM](https://nodei.co/npm/@cm-workspace/locale.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@cm-workspace/locale/)
--->
