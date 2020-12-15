@@ -60,7 +60,7 @@ module.exports = {
     d: "Year",
   },
   "35bb357": {
-    d: "Sex",
+    d: "Gender",
   },
   "5e7d4d4": {
     d: "I'm from Sex",

@@ -23,6 +23,9 @@ module.exports = {
   ef76fcc: {
     d: "Modelos",
   },
+  cdc1547: {
+    d: `<p> Identifique seus hábitos </p> <p> Aumente seu desempenho </p> <p>Crie seu novo projeto <strong>agora</strong></p>`,
+  },
   abef585: {
     d: `<p> Conheça <br /> Modelos incríveis</p> <p>Projetos reais criados pela nossa <br/> <strong>Equipe</strong> e pela <strong>Comunidade</strong></p>`,
   },

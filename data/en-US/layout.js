@@ -23,6 +23,9 @@ module.exports = {
   ef76fcc: {
     d: "Models",
   },
+  cdc1547: {
+    d: `<p>Identify Your Habits</p> <p>Increase your performance</p> <p>Create your new Project <strong>now</strong></p>`,
+  },
   abef585: {
     d: `<p> See more <br /> Incredible models</p> <p>Real projects created by our <br/>  <strong>Team</strong> and the <strong>Community</strong></p>`,
   },
