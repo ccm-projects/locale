@@ -80,4 +80,11 @@ module.exports = {
   fd7e6be: {
     d: "Trash",
   },
+  c973040: {
+    d: "Your message was successfully sent, thank you.",
+  },
+  a09813b: {
+    d:
+      "There was an error and it was not possible to send your message, please try again.",
+  },
 };

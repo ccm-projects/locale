@@ -80,4 +80,11 @@ module.exports = {
   fd7e6be: {
     d: "Lixeira",
   },
+  c973040: {
+    d: "Sua mensagem foi enviada com sucesso, obrigado.",
+  },
+  a09813b: {
+    d:
+      "Ocorreu um erro e não foi possível enviar a sua mensagem, tente novamente.",
+  },
 };

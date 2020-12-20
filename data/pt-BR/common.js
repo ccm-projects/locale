@@ -18,6 +18,9 @@ export default {
       "8c0692a": {
         d: "Este campo é obrigatório",
       },
+      ecb177a: {
+        d: "Sua mensagem deve contem ao menos 20 caracteres",
+      },
       daafb0e: {
         d: "Informe um email válido!",
       },

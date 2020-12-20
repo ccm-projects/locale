@@ -18,6 +18,9 @@ export default {
       "8c0692a": {
         d: "This field is required",
       },
+      ecb177a: {
+        d: "yYour message must include at least 20 characters",
+      },
       daafb0e: {
         d: "Enter a valid email!",
       },
