@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/cm-workspace/locale/compare/v1.2.2...v1.3.0) (2020-12-20)
+
+
+### Features
+
+* **suggestion:** add funcionalidade ([4ac45f8](https://github.com/cm-workspace/locale/commit/4ac45f8150977123833943d5a6900a73c46d7318))
+
 ## [1.2.2](https://github.com/cm-workspace/locale/compare/v1.2.1...v1.2.2) (2020-12-15)
 
 
