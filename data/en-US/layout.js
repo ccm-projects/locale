@@ -38,6 +38,10 @@ module.exports = {
   c0bbb1a: {
     d: "Enter a term that matches any part of your Document",
   },
+  "2ea0216": {
+    d:
+      "<strong>We didn't find any results.</strong> <br /> Make sure everything is spelled correctly or try different keywords.",
+  },
   d5849fc: {
     d: "What would you change on this page?",
   },

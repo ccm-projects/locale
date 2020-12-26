@@ -38,6 +38,10 @@ module.exports = {
   c0bbb1a: {
     d: "Digite um termo que corresponda a qualquer parte do seu Documento",
   },
+  "2ea0216": {
+    d:
+      "<strong>Não encontramos nenhum resultado.</strong> <br /> Verifique se tudo está escrito corretamente ou tente palavras-chave diferentes.",
+  },
   d5849fc: {
     d: "O que você mudaria nesta página?",
   },
