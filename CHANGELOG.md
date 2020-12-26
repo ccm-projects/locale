@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/cm-workspace/locale/compare/v1.3.0...v1.4.0) (2020-12-26)
+
+
+### Features
+
+* **search:** add text ([8eaebf0](https://github.com/cm-workspace/locale/commit/8eaebf0ffad2ddc981fc19e27f9382baafed2f5c))
+
 # [1.3.0](https://github.com/cm-workspace/locale/compare/v1.2.2...v1.3.0) (2020-12-20)
 
 
