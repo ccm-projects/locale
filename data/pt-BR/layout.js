@@ -32,11 +32,8 @@ module.exports = {
   d540278: {
     d: "Hoje é...",
   },
-  f12c80c: {
-    d: "Procurar no Projeto",
-  },
   c0bbb1a: {
-    d: "Digite um termo que corresponda a qualquer parte do seu Documento",
+    d: "Procure nos Documentos",
   },
   "2ea0216": {
     d:

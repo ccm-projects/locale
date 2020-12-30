@@ -32,11 +32,8 @@ module.exports = {
   d540278: {
     d: "Today is...",
   },
-  f12c80c: {
-    d: "Search in the Project",
-  },
   c0bbb1a: {
-    d: "Enter a term that matches any part of your Document",
+    d: "Search in Documents",
   },
   "2ea0216": {
     d:
