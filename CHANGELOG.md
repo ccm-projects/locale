@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/cm-workspace/locale/compare/v1.4.0...v1.5.0) (2020-12-30)
+
+
+### Features
+
+* **documents:** text ([211eb74](https://github.com/cm-workspace/locale/commit/211eb74e8bf9cb90a2317f5d26c985320fb9949b))
+
 # [1.4.0](https://github.com/cm-workspace/locale/compare/v1.3.0...v1.4.0) (2020-12-26)
 
 
