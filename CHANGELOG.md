@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/cm-workspace/locale/compare/v1.5.0...v1.6.0) (2021-01-09)
+
+
+### Features
+
+* rename ([d91ed65](https://github.com/cm-workspace/locale/commit/d91ed657ac689e5135a7a310ebb0d8b1a23b8746))
+
 # [1.5.0](https://github.com/cm-workspace/locale/compare/v1.4.0...v1.5.0) (2020-12-30)
 
 
