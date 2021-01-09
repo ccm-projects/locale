@@ -55,7 +55,7 @@ module.exports = {
     d: "Links",
   },
   c23aa52: {
-    d: "Notifications",
+    d: "Monitor",
   },
   a268a5d: {
     d: "Files",
